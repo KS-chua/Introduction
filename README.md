@@ -1,5 +1,5 @@
 ![IMG_20220122_174037_891](https://user-images.githubusercontent.com/103159357/162114910-d4def613-5e96-4b97-aa4e-f4bfbf4ba428.jpg)
-- 👋 Hello ! my name is KS-chua, you can also call me KS
+ # **👋 Hello ! i'm KS-chua, you can also call me KS**
 - I'm a student of Generation Singapore (Cloud Support & Devops) currently attending bootcamp training. 
 
 ![GenerationSingapore](https://user-images.githubusercontent.com/103159357/162116047-e343c616-4326-4be8-af56-8200d8868940.png) ![Microsoft](https://user-images.githubusercontent.com/103159357/162116055-2bb93867-60b9-4871-80ba-9c947b1dc17b.png) ![Temasek Poly](https://user-images.githubusercontent.com/103159357/162116063-351d4704-5cac-4e6d-88c9-2e14ddf97131.png)
