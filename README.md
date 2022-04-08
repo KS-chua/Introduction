@@ -1,4 +1,5 @@
-<div class="tenor-gif-embed" data-postid="22915052" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bebek-duck-halo-hello-funny-gif-22915052">Bebek Duck GIF</a>from <a href="https://tenor.com/search/bebek-gifs">Bebek GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![bebek-duck](https://user-images.githubusercontent.com/103159357/162348449-a36519cf-0c9a-434e-bdb0-fe5596a8e022.gif)
+
  # **👋 Hello ! i'm KS-chua, you can also call me KS**
 - I'm a student of Generation Singapore ( Cloud Support & Devops ) in collaboration with Microsoft and Temasek Polytechnic and currently attending bootcamp training. 
 
