@@ -1,6 +1,6 @@
 ![bebek-duck](https://user-images.githubusercontent.com/103159357/162348449-a36519cf-0c9a-434e-bdb0-fe5596a8e022.gif)
 
- # **👋 Hello ! i'm KS-chua, you can also call me KS**
+ # **👋 Hello ! i'm KS, you can also call me Sam**
 - I'm a student of Generation Singapore ( Cloud Support & Devops ) in collaboration with Microsoft and Temasek Polytechnic and currently attending bootcamp training. 
 
 ![GenerationSingapore](https://user-images.githubusercontent.com/103159357/162116047-e343c616-4326-4be8-af56-8200d8868940.png) ![Microsoft](https://user-images.githubusercontent.com/103159357/162116055-2bb93867-60b9-4871-80ba-9c947b1dc17b.png) ![Temasek Poly](https://user-images.githubusercontent.com/103159357/162116063-351d4704-5cac-4e6d-88c9-2e14ddf97131.png)
