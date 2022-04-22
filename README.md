@@ -13,7 +13,6 @@
 
 ![Linux](https://user-images.githubusercontent.com/103159357/162117737-93d18c74-855b-45e9-a2f1-2d8343891b57.png) ![Ubunta](https://user-images.githubusercontent.com/103159357/162117772-fbf87140-878d-4dbe-9ba1-e09b944f82bf.png) ![Python](https://user-images.githubusercontent.com/103159357/162117790-88301192-bcb7-4792-b712-da8a53361a12.png) ![Azure](https://user-images.githubusercontent.com/103159357/162117803-3bdf98a8-3b44-4c32-97f5-20db40761abf.png) ![Ansible](https://user-images.githubusercontent.com/103159357/162117837-e0e9d3ec-82c3-42c4-b210-120c0d5ccbe4.png) ![Terraform](https://user-images.githubusercontent.com/103159357/162117855-0b085991-b648-4f68-8038-bbe1410e2102.png) ![Github](https://user-images.githubusercontent.com/103159357/162117869-4ad63961-f1a9-41ae-a2e6-93e3340befe1.png) ![Git](https://user-images.githubusercontent.com/103159357/162117886-2232573b-1846-422e-9644-f3514dd00f83.png) ![Docker](https://user-images.githubusercontent.com/103159357/162117891-6591a0ba-b7ac-4b3b-bc45-27809d8cf51e.png) ![Kubernetes](https://user-images.githubusercontent.com/103159357/162117902-d8df71aa-ecf8-4ca7-a44b-09b3b2ed8a80.png)
 
-- Attaining ( AZ900/AZ104 )
 
 
 
