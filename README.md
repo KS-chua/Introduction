@@ -1,5 +1,3 @@
-![bebek-duck](https://user-images.githubusercontent.com/103159357/162348449-a36519cf-0c9a-434e-bdb0-fe5596a8e022.gif)
-
  # **👋 Hello ! i'm KS, you can also call me Sam**
 - I'm a student of Generation Singapore ( Cloud Support & Devops ) in collaboration with Microsoft and Temasek Polytechnic and currently attending bootcamp training. 
 
